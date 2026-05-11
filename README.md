@@ -1,17 +1,48 @@
-# Kayque
+<h2 align="center">> Hello World!, I am Kayque Neves 👋</h2>
 
-🎓 Estudante da Puc Minas
-💻 Estudando C#, API Rest,
-    banco de dados SQL 
-🚀 Interessado em Backend e IA
+<br>
 
-## Tecnologias
+<p align="center">
+[ From state of Minas Gerais, Brazil ]
+</p>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="center">
+Student, Systems/Technology Enthusiast @ Puc Minas
+</p>
 
-## Find me on:
-https://www.linkedin.com/in/kayque-rezende-4128a1340/
+<br>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<br>
+
+<h3 align="center">▼ Read More</h3>
+
+<br>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true"/>
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact"/>
+</p>
+
+<br>
+
+<h3 align="center">Find me on</h3>
+
+<p align="center">
+
+
+
+<a href="https://linkedin.com/in/"https://www.linkedin.com/in/kayque-rezende-4128a1340/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
