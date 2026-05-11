@@ -12,7 +12,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Atualmente
-- Criando APIs REST
-- Aprendendo Docker
-- Estudando Banco de Dados
+## Find me on:
+https://www.linkedin.com/in/kayque-rezende-4128a1340/
+
