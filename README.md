@@ -1,4 +1,4 @@
-<h2 align="center">> Hello World!, I am Kayque Brito 👋</h2>
+<h2 align="center">> Hello World!, I am Kayque 👋</h2>
 
 <br>
 
@@ -18,18 +18,7 @@ Student, Systems/Technology Enthusiast @ Puc Minas
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
 
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact"/>
-</p>
-
-<br>
 
 <h3 align="center">Find me on</h3>
 
