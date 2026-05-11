@@ -20,11 +20,6 @@ Student, Systems/Technology Enthusiast @ Puc Minas
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<br>
-
-<h3 align="center">▼ Read More</h3>
-
-<br>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true"/>
