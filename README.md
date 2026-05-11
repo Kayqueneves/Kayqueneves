@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-[ From Minas Geras - Brazil ]
+[ From Minas Gerais - Brazil ]
 </p>
 
 <p align="center">
